@@ -1,6 +1,8 @@
 {
   "about_url": null,
   "license_url": null,
+  "description": "This is my cool theme description",
+  "screenshots": ["screenshots/1.jpeg", "screenshots/2.jpeg"],
   "assets": {
   },
   "name": "TestRemote",
